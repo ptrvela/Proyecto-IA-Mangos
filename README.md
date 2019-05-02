@@ -1,3 +1,6 @@
+# NOTA
+Debido al peso de la red entrenada, no se incluye en este repositorio, la red y las fotos se encuentran en https://drive.google.com/drive/folders/14zf7U1Ld3ev6NYqX8_bNEuqHpy6MlsYG
+
 # Madurez de mangos usando un RNA
 Este conjunto de programas tiene como objetivo poder dar una probabilidad de madurez de los mangos, tiene dos objetivos a cumplir:
 -	Entrenar una red neuronal artificial con el fin de poder detectar la madurez de los mangos.
