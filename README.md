@@ -1,4 +1,4 @@
-<h1>Madurez de mangos usando un RNA 
+<h1>Madurez de mangos usando un RNA<h1>
 
 Este conjunto de programas tiene como objetivo poder dar una probabilidad de madurez de los mangos, tiene dos objetivos a cumplir:
 
