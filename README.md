@@ -38,9 +38,9 @@ $ pip install neurolab
 ### Entrenar la RNA
 Para entrenar su propia RNA.
 - Clasifique todas las imágenes de mangos a las que tenga acceso, entre, verde, maduro y podrido, cree las siguientes capertas y coloquelos ahi>
-    - mangos-verdes:   MangosVerdes
-    - mangos-buenos:   MangosBuenos
-    - mangos-malos:    MangosMalos
+    - MangosVerdes
+    - MangosBuenos
+    - MangosMalos
 - cree las siguientes carpetas, ahi se almacenaran recortes de los mangos.
     - RecortesMangosBuenos
     - RecortesMangosMalos
