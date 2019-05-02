@@ -1,4 +1,5 @@
-Madurez de mangos usando un RNA
+Madurez de mangos usando un RNA <h1>
+
 Este conjunto de programas tiene como objetivo poder dar una probabilidad de madurez de los mangos, tiene dos objetivos a cumplir:
 
 Entrenar una red neuronal artificial con el fin de poder detectar la madurez de los mangos.
