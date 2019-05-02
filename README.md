@@ -9,8 +9,7 @@ Este conjunto de programas tiene como objetivo poder dar una probabilidad de mad
 -	Solo se necesita tener clasificadas las imágenes en verde, maduro y podrido para poder entrenar la neurona.
 -	Una interfaz gráfica para analizar la madurez de un mango. 
 
-> La idea principal es que solo se necesite
-> de mangos para reconocer mangos.
+La idea principal es que solo se necesite de mangos para reconocer mangos.
 
 ## Tecnología 
 Este proyecto utiliza una serie de proyectos de código abierto para funcionar correctamente:
