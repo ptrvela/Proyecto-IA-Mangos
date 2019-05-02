@@ -3,7 +3,7 @@ Este conjunto de programas tiene como objetivo poder dar una probabilidad de mad
 -	Entrenar una red neuronal artificial con el fin de poder detectar la madurez de los mangos.
 -	Tener una aplicación de escritorio por el cual un usuario pueda analizar un mango cualquiera.
 
-# Características!
+# Características
 
 -	Cuenta con su propia RNA, pero puede entrenar la propia.
 -	Solo se necesita tener clasificadas las imágenes en verde, maduro y podrido para poder entrenar la neurona.
