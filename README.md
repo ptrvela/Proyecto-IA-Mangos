@@ -46,9 +46,9 @@ Para entrenar su propia RNA.
 
 - Ejecute los siguientes comandos, tome en cuenta que el entrenamiento es tardado y depende de la capacidad de computo y cantidad de imagenes que se utilizen para entrenar.
     ```sh
-    $ python recortar_mangos.py
-    $ python entrada_neurona.py
-    $ python Red_neuronal.py
+    $ python RecorteMango.py
+    $ python DatosEntradaRNA.py
+    $ python RNA.py
     ```
 ### Reconocer un mangos
 ```sh
